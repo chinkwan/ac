@@ -308,21 +308,17 @@ CEC4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
 昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
 
-汕頭,#genre#,HEADERS={"User-Agent":"Mozilla/5.0"}
+🔸汕頭,#genre#,HEADERS={"User-Agent":"Mozilla/5.0"}
 汕头综合,http://tv1.966441.xyz/sttv.php?id=st1
 汕头经济生活,http://tv1.966441.xyz/sttv.php?id=st2
 汕头电台102.5,http://tv1.966441.xyz/sttv.php?id=fm1025
 汕头电台107.2,http://tv1.966441.xyz/sttv.php?id=fm1072
-
 汕头综合,https://gitee.com/k-web/ku9/js/csve/ive/raw/master/shantou.js?id=st1
 汕头经济生活,https://gitee.com/k-web/ku9/js/csve/ive/raw/master/shantou.js?id=st2
 汕头电台102.5,https://gitee.com/k-web/ku9/js/csve/ive/raw/master/shantou.js?id=fm1025
 汕头电台107.2,https://gitee.com/k-web/ku9/js/csve/ive/raw/master/shantou.js?id=fm1072
 汕头综合,http://id.dnmb.cn/gdst.php?id=st1
 汕头经济生活,http://id.dnmb.cn/gdst.php?id=st2
-
-
-
 
 🔸廣東,#genre#
 广东卫视,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=43
