@@ -96,8 +96,6 @@ CETV4,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca908
 黑龙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws 
 
 
-
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 🔸香港,#genre#
 凤凰中文台,video://http://x.iptv807.com/?act=play&token=7597af973a56e23ede2a9778a5321eb6&tid=gt&id=1
 凤凰资讯台,video://http://x.iptv807.com/?act=play&token=c46113869281dd4a3de76f4c29df8dcc&tid=gt&id=2
@@ -144,7 +142,7 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 澳门莲花,video://https://www.lotustv.mo/#page1
 
-🔸台湾,#genre#
+🔸台灣,#genre#
 中天新闻台,video://http://x.iptv807.com/?act=play&token=0a3464b74083ef7d5bc1ceb016bce683&tid=gt&id=43
 东森新闻台,video://http://x.iptv807.com/?act=play&token=5e6808fc7cafb28419d1b53d08b7ed09&tid=gt&id=44
 东森财经台,video://http://x.iptv807.com/?act=play&token=24f0011faa5c0831c1195154acb8f539&tid=gt&id=45
@@ -236,7 +234,6 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
-
 🔸國際,#genre#
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -311,22 +308,42 @@ CEC4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
 昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
 
-🔸廣東,#genre#
+汕頭,#genre#,HEADERS={"User-Agent":"Mozilla/5.0"}
 汕头综合,http://tv1.966441.xyz/sttv.php?id=st1
 汕头经济生活,http://tv1.966441.xyz/sttv.php?id=st2
 汕头电台102.5,http://tv1.966441.xyz/sttv.php?id=fm1025
 汕头电台107.2,http://tv1.966441.xyz/sttv.php?id=fm1072
-汕头综合,http://id.dnmb.cn/gdst.php?id=st1
-汕头经济,http://id.dnmb.cn/gdst.php?id=st2
 
-广东卫视,http://113.64.94.178:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1
-广东珠江,http://113.64.94.178:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
-广东新闻,http://113.64.94.178:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&down=1
-广东公共,http://113.64.94.178:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
-广东体育,http://113.64.94.178:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-经济科教,http://113.64.94.178:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
-南方卫视,http://113.64.94.178:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
-广东体育,http://113.64.94.178:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
+汕头综合,https://gitee.com/k-web/ku9/js/csve/ive/raw/master/shantou.js?id=st1
+汕头经济生活,https://gitee.com/k-web/ku9/js/csve/ive/raw/master/shantou.js?id=st2
+汕头电台102.5,https://gitee.com/k-web/ku9/js/csve/ive/raw/master/shantou.js?id=fm1025
+汕头电台107.2,https://gitee.com/k-web/ku9/js/csve/ive/raw/master/shantou.js?id=fm1072
+汕头综合,http://id.dnmb.cn/gdst.php?id=st1
+汕头经济生活,http://id.dnmb.cn/gdst.php?id=st2
+
+
+
+
+🔸廣東,#genre#
+广东卫视,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=43
+广东珠江,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=44
+广东新闻,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=45
+大灣區衛視,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=46
+广东体育,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=47
+广东民生,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=48
+大湾区卫视,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=51
+广东影视,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=53
+4K超高清,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=16
+广东少儿,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=54
+嘉佳卡通,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=66
+南方购物,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=42
+岭南戏曲,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=15
+广东移动,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=74
+现代教育,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=111
+荔枝台,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=100
+GRTN健康,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=99
+GRTN文化,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=75
+GRTN生活,https://gitee.com/k-web/ku9/php/csve/ive/raw/za/gdtv.php?id=102
 
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
